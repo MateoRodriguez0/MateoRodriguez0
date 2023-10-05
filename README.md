@@ -75,7 +75,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,spring,postman,html,css,git,github,eclipse)](https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=java,spring,eclipse,postman,mysql,git,github,,html,css](https://skillicons.dev" />
   </a>
 </p>
 
