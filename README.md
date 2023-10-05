@@ -100,7 +100,7 @@
 
 <p>
 
-<br>
+<br><br>
 <div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://profile-counter.glitch.me/MateoRodriguez0/count.svg">
