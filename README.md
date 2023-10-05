@@ -104,6 +104,7 @@
 
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=MateoRodriguez0&label=Profile%20Views&color=1&icon=5&pretty=true" />
+    <img src="https://profile-counter.glitch.me/MateoRodriguez0/count.svg">
   </a>
 
 </div>
@@ -111,7 +112,7 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://profile-counter.glitch.me/MateoRodriguez0/count.svg">
+
 
 
 
