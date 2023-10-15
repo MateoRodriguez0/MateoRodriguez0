@@ -28,8 +28,8 @@
 - :student:  Actualmente estoy aprendiendo a crear microservicios con `spring cloud` y `netflix eureka`.
 - :nerd_face:Siempre `aprendiendo cosas nuevas`.
 - :thinking: Actualmente estoy abierto a una nueva `oportunidad laboral`.
-- :boom: You can visit [MY WEBSITE](https://leanunpoco.blogspot.com/).
-- 🌱 Actualmente estoy aprendiendo a detalle **sobre la arquitectura de microservicios con spring framework.**
+- :boom: Puedes visitar [mi sitio web](https://leanunpoco.blogspot.com/).
+- 🌱 Actualmente estoy aprendiendo sobre la *arquitectura de microservicios con spring boot.**
 - ☁️ Tengo gran interés en la computación en la nube. Entonces, me gustaria aprender **AWS**
 - 💬 Pregúntame sobre Java, Spring boot, mysql, y cosas relacionadas sobre microservicios.
 - 📫 No dudes en comunicarte conmigo **mateo204r@gmail.com**
