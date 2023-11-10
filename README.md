@@ -31,7 +31,7 @@
 - :boom: Puedes visitar [mi sitio web](https://leanunpoco.blogspot.com/).
 - 🌱 Actualmente estoy aprendiendo sobre la *arquitectura de microservicios con **Spring Boot**.
 - ☁️ Tengo gran interés en la computación en la nube. Entonces, me gustaria aprender **AWS**
-- 🤓 Me gustaria aprender docker🐋 y kubernetes☸️.
+- 🤓 Me interesa mucho conocer sobre contendores, me gustaria aprender docker🐋 y kubernetes☸️.
 - 💬 Pregúntame sobre Java, Spring boot, mysql, y cosas relacionadas sobre microservicios.
 - 📫 No dudes en comunicarte conmigo **mateo204r@gmail.com**
 
