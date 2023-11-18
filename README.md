@@ -24,16 +24,16 @@
 
 <br><br>
 
-- :school: Soy estudiante de quinto semestre en la Facultad de [Tecnologia en desarrollo de software](https://tecnologicocomfenalco.edu.co/tecnologia-en-desarrollo-de-software) en la [fundacion universitraria tecnologico de comfenalco](https://tecnologicocomfenalco.edu.co/).
-- :student:  Actualmente estoy aprendiendo a crear microservicios con `spring cloud` y `netflix eureka`.
-- :nerd_face:Siempre `aprendiendo cosas nuevas`.
-- :thinking: Actualmente estoy abierto a una nueva `oportunidad laboral`.
-- :boom: Puedes visitar [mi sitio web](https://leanunpoco.blogspot.com/).
-- 🌱 Actualmente estoy aprendiendo sobre la *arquitectura de microservicios con **Spring Boot**.
-- ☁️ Tengo gran interés en la computación en la nube. Entonces, me gustaria aprender **AWS**
-- 🤓 Me interesa mucho conocer sobre contendores, me gustaria aprender docker🐋 y kubernetes☸️.
-- 💬 Pregúntame sobre Java, Spring boot, mysql, y cosas relacionadas sobre microservicios.
-- 📫 No dudes en comunicarte conmigo **mateo204r@gmail.com**
+- :school: I am a fifth semester student at the Faculty of [Technology in software development](https://tecnologicocomfenalco.edu.co/tecnologia-en-desarrollo-de-software) in the [technological university foundation of comfenalco(https://tecnologicocomfenalco.edu.co/).
+- :student: I'm currently learning how to create microservices with `spring cloud` and `netflix eureka`.
+- :nerd_face:Always 'learning new things'.
+- :thinking: I am currently open to a new 'job opportunity'.
+- :boom: You can visit [my website](https://leanunpoco.blogspot.com/).
+- 🌱 I'm currently learning about *microservices architecture with **Spring Boot**.
+- ☁️ I have great interest in cloud computing. So, I would like to learn **AWS**
+- 🤓 I am very interested in learning about containers, I would like to learn docker🐋 and kubernetes☸️.
+- 💬 Ask me about Java, Spring boot, mysql, and related things about microservices.
+- 📫 Do not hesitate to contact me **mateo204r@gmail.com**
 
 <br>
 
