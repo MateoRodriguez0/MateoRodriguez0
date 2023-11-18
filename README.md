@@ -24,7 +24,7 @@
 
 <br><br>
 
-- :school: I am a fifth semester student at the Faculty of [Technology in software development](https://tecnologicocomfenalco.edu.co/tecnologia-en-desarrollo-de-software) in the [technological university foundation of comfenalco(https://tecnologicocomfenalco.edu.co/).
+- :school: I am a fifth semester student at the Faculty of [Technology in software development](https://tecnologicocomfenalco.edu.co/tecnologia-en-desarrollo-de-software) in the [technological university foundation of comfenalco](https://tecnologicocomfenalco.edu.co/).
 - :student: I'm currently learning how to create microservices with `spring cloud` and `netflix eureka`.
 - :nerd_face:Always 'learning new things'.
 - :thinking: I am currently open to a new 'job opportunity'.
