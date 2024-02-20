@@ -102,13 +102,13 @@
 <p>
 
 <br><br>
-<div align="center">
+<!--<div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://profile-counter.glitch.me/MateoRodriguez0/count.svg">
   </a>
 </div>
 
 
-<!--horizontal divider(gradiant)-->
-<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+horizontal divider(gradiant)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
