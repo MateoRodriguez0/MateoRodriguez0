@@ -98,11 +98,10 @@
 <a href="mailto:mateo204r@gmail.com" >
   <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" height="50" width="50"  />
 </a> &nbsp;&nbsp;
-
 <p>
 
-<br><br>
-<!--<div align="center">
+<!--<br><br>
+<div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://profile-counter.glitch.me/MateoRodriguez0/count.svg">
   </a>
