@@ -24,14 +24,14 @@
 
 <br><br>
 
-- :school: I am a fifth semester student at the Faculty of [Technology in software development](https://tecnologicocomfenalco.edu.co/tecnologia-en-desarrollo-de-software) in the [technological university foundation of comfenalco](https://tecnologicocomfenalco.edu.co/).
+- :school: I am a sixth semester student at the Faculty of [Technology in software development](https://tecnologicocomfenalco.edu.co/tecnologia-en-desarrollo-de-software) in the [technological university foundation of comfenalco](https://tecnologicocomfenalco.edu.co/).
 - :student: I'm currently learning how to create microservices with `spring cloud` and `netflix eureka`.
 - :nerd_face:Always 'learning new things'.
 - :thinking: I am currently open to a new 'job opportunity'.
 - :boom: You can visit [my website](https://leanunpoco.blogspot.com/).
-- 🌱 I'm currently learning about *microservices architecture with **Spring Boot**.
-- ☁️ I have great interest in cloud computing. So, I would like to learn **AWS**
-- 🤓 I am very interested in learning about containers, I would like to learn docker🐋 and kubernetes☸️.
+- 🌱 I use **spring boot** and **spring cloud** very well.
+- 🛡️About computer security I understand http basic, jwt and a little bit of oauth2 and openid connect
+- ☁️ I have great interest in cloud computing.
 - 💬 Ask me about Java, Spring boot, mysql, and related things about microservices.
 - 📫 Do not hesitate to contact me **mateo204r@gmail.com**
 
