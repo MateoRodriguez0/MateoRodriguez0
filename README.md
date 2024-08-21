@@ -28,7 +28,7 @@
 - :thinking: I am currently open to a new 'job opportunity'.
 - :boom: You can visit [my website](https://leanunpoco.blogspot.com/).
 - 🌱 I use **spring boot** and **spring cloud** very well.
-- ☸️ I know a little about containers and docker images
+- 🐋 I know a little about containers and docker images
 - 🛡️About computer security I understand http basic, jwt and a little bit of oauth2 and openid connect
 - ☁️ I have great interest in cloud computing.
 - 💬 Ask me about Java, Spring boot, mysql, and related things about microservices.
