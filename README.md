@@ -23,17 +23,19 @@
 
 <br><br>
 
-- :school: I am a sixth semester student at the Faculty of [Technology in software development](https://tecnologicocomfenalco.edu.co/tecnologia-en-desarrollo-de-software) in the [technological university foundation of comfenalco](https://tecnologicocomfenalco.edu.co/).
-- :nerd_face:Always 'learning new things'.
-- :thinking: I am currently open to a new 'job opportunity'.
-- :boom: You can visit [my website](https://leanunpoco.blogspot.com/).
-- 🌱 I use **spring boot** and **spring cloud** very well.
-- 🐋 I know a little about containers and docker images
-- 🛡️About computer security I understand http basic, jwt and a little bit of oauth2 and openid connect
-- ☁️ I have great interest in cloud computing.
-- 💬 Ask me about Java, Spring boot, mysql, and related things about microservices.
-- 📫 Do not hesitate to contact me **mateo204r@gmail.com**
+## 👨‍💻 About Me
 
+- 🎓 I am currently in my **final year of Software Development Technology** at the [Fundación Universitaria Tecnológica de Comfenalco](https://tecnologicocomfenalco.edu.co/).
+- 🧠 Certified as an **AWS Solutions Architect - Certified Associate (SAA-C03)**.
+- 🔭 I focus on developing **back-end web applications with scalable, robust, and high-performance architectures**.
+- 💡 Focused on creating clean, quality code.
+- 🌱 I am proficient in backend areas such as **Java, Spring Boot, and Spring Cloud**
+- ☁️ Passionate about **cloud computing**, microservices architecture, and modern DevOps.
+- 💻 I have developed full-stack applications from solution analysis to production.
+- 🐋 I am comfortable with Docker containers and images for local development and deployments.
+- 🛡️ I understand and apply secure authentication flows such as **JWT**, **OAuth2**, and **OpenID Connect**.
+- 📫 Contact me: **mateo204r@gmail.com**
+  
 <br>
 
 
@@ -75,7 +77,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,eclipse,postman,mysql,postgres,git,github,html,css,js,tailwind,react,docker,aws,gcp"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,eclipse,postman,mysql,postgres,git,github,html,css,js,tailwind,react,docker,aws,gcp,redis,maven"/>
   </a>
 </p>
 
