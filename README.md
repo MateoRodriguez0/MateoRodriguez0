@@ -24,7 +24,7 @@
 - 💻 I have developed full-stack applications from solution analysis to production.
 - 🐋 I am comfortable with Docker containers and images for local development and deployments.
 - 🛡️ I understand and apply secure authentication flows such as **JWT**, **OAuth2**, and **OpenID Connect**.
-- 📫 Contact me: **mateo204r@gmail.com**
+- 📫 **[Contact me](mateo204r@gmail.com)**
 
 <picture class="picture">
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
