@@ -60,7 +60,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,eclipse,postman,mysql,postgres,git,github,html,css,js,tailwind,react,docker,aws,gcp,redis,maven"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,eclipse,postman,mysql,postgres,git,github,gitlab,html,css,js,tailwind,react,docker,aws,gcp,redis,maven"/>
   </a>
 </p>
 
