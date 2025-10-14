@@ -16,7 +16,7 @@
 </div>
 
 - 🎓 I am currently in my **final year of Software Development Technology** at the [Fundación Universitaria Tecnológica de Comfenalco](https://tecnologicocomfenalco.edu.co/).
-- 🧠 Certified as an **AWS Solutions Architect - Certified Associate (SAA-C03)**.
+- 🧠 Certified as an **[AWS Solutions Architect - Certified Associate (SAA-C03)](https://www.credly.com/badges/2abde7f4-c398-44b1-83a1-7e6716ae8387/public_url)**.
 - 🔭 I focus on developing **back-end web applications with scalable, robust, and high-performance architectures**.
 - 💡 Focused on creating clean, quality code.
 - 🌱 I am proficient in backend areas such as **Java, Spring Boot, and Spring Cloud**
