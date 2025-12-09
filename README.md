@@ -43,11 +43,10 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MateoRodriguez0&theme=dark&show_icons=true&count_private=true" />
+  <img alt="github-stats" align="center"  src="https://github-readme-stats-one-delta-97.vercel.app/api?username=MateoRodriguez0&show_icons=true&count_private=true&theme=tokyonight" />
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MateoRodriguez0&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats-one-delta-97.vercel.app/api/top-langs/?username=MateoRodriguez0&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=SCSS,procfile,shell"/>
   </td>
 </tr>
 </table>
