@@ -38,66 +38,31 @@
   </ul>
 </div>
 
-<div 
-  style="
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    width: 100%;
-    align-items: center;
-  "
->
-  <div 
-    style="
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 20px;
-      width: 100%;
-    "
-  >
-  <div 
-      style="
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
-        flex: 1 1 350px;
-        max-width: 500px;
-      "
-      align="center"
-    >
-    <img 
+<table align="center">
+  <tr>
+    <td align="center" style="width: 50%; min-width: 300px;">
+      <img 
         alt="GitHub Stats"
         src="https://github-readme-stats-one-delta-97.vercel.app/api?username=MateoRodriguez0&show_icons=true&count_private=true&theme=tokyonight"
-        style="width: 100%;"
+        width="100%"
       />
+      <br/><br/>
+      <img 
+        alt="GitHub Streak"
+        src="https://mateorodriguez0-stats.vercel.app/?user=MateoRodriguez0&theme=tokyonight&hide_border=false"
+        width="100%"
+      />
+    </td>
 
-      <!-- STREAK STATS -->
-  <img 
-      alt="GitHub Streak"
-      src="https://mateorodriguez0-stats.vercel.app/?user=MateoRodriguez0&theme=tokyonight&hide_border=false"
-      style="width: 100%;"
-    />
-   </div>
-
-   <div 
-      style="
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
-        flex: 1 1 350px;
-        max-width: 500px;
-      "
-      align="center"
-    >
+  <td align="center" style="width: 50%; min-width: 300px;">
       <img 
         alt="Top Languages"
         src="https://github-readme-stats-one-delta-97.vercel.app/api/top-langs/?username=MateoRodriguez0&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=SCSS,procfile,shell,php"
-        style="width: 100%;"
+        width="100%"
       />
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 
 <div id="user-content-toc">
