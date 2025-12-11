@@ -34,23 +34,71 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">⚙️ GitHub Analitycs </h1></summary>
+    <summary><h1 style="display: inline-block">⚙️ GitHub Analytics</h1></summary>
   </ul>
 </div>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img alt="github-stats" align="center"  src="https://github-readme-stats-one-delta-97.vercel.app/api?username=MateoRodriguez0&show_icons=true&count_private=true&theme=tokyonight" />
-</td>
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats-one-delta-97.vercel.app/api/top-langs/?username=MateoRodriguez0&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=SCSS,procfile,shell"/>
-  </td>
-</tr>
-</table>
-</p>
+
+<div 
+  style="
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    align-items: center;
+  "
+>
+  <div 
+    style="
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      width: 100%;
+    "
+  >
+  <div 
+      style="
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        flex: 1 1 350px;
+        max-width: 500px;
+      "
+      align="center"
+    >
+    <img 
+        alt="GitHub Stats"
+        src="https://github-readme-stats-one-delta-97.vercel.app/api?username=MateoRodriguez0&show_icons=true&count_private=true&theme=tokyonight"
+        style="width: 100%;"
+      />
+
+      <!-- STREAK STATS -->
+  <img 
+      alt="GitHub Streak"
+      src="https://mateorodriguez0-stats.vercel.app/?user=MateoRodriguez0&theme=tokyonight&hide_border=false"
+      style="width: 100%;"
+    />
+   </div>
+
+   <div 
+      style="
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        flex: 1 1 350px;
+        max-width: 500px;
+      "
+      align="center"
+    >
+      <img 
+        alt="Top Languages"
+        src="https://github-readme-stats-one-delta-97.vercel.app/api/top-langs/?username=MateoRodriguez0&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=SCSS,procfile,shell,php"
+        style="width: 100%;"
+      />
+    </div>
+  </div>
+</div>
+
 
 <div id="user-content-toc">
   <ul align="center">
