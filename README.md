@@ -20,6 +20,9 @@
 - 🔭 I focus on developing **back-end web applications with scalable, robust, and high-performance architectures**.
 - 💡 Focused on creating clean, quality code.
 - 🌱 I am proficient in backend areas such as **Java, Spring Boot, and Spring Cloud**
+- 🧪 I am deeply committed to delivering high-quality code through thorough testing and effective simulations.
+  - Backend: Unit and integration testing with [JUnit 5](https://junit.org/) and [Mockito](https://site.mockito.org/).
+  - Frontend: Modern testing environments using [Vitest](https://vitest.dev/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/).
 - ☁️ Passionate about **cloud computing**, microservices architecture, and modern DevOps.
 - 💻 I have developed full-stack applications from solution analysis to production.
 - 🐋 I am comfortable with Docker containers and images for local development and deployments.
